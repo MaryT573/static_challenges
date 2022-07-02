@@ -2,10 +2,13 @@ body {
   background-color: white;
 }
 h1 {
-  color: black;
+  color: white;
   text-align: left;
+  padding: 25px 25px 25px 25px;
+  background-color: darkred;
 }
 p {
   color: black;
-  text-align: center;
+  text-align: left;
+  width: 1000px;
 }
