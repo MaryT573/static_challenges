@@ -11,4 +11,12 @@ p {
   color: black;
   text-align: left;
   width: 1000px;
+  padding: 25px 25px 25px 25px;
+}
+
+b {
+  padding: 25px 25px 25px 25px;
+}
+img {
+  padding: 25px 25px 25px 25px;
 }
